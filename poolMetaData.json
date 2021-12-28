@@ -1,7 +1,7 @@
 cat > poolMetaData.json << EOF
 {
 "name": "Goofinator Pool",
-"description": "IT professionals that have fun supporting cardano defi",
+"description": "IT professionals that are having fun supporting cardano defi",
 "ticker": "GOOF",
 "homepage": "https://goofinator.com"
 }
