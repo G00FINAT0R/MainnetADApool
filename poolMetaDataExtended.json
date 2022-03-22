@@ -1,10 +1,11 @@
 {   
-    "location": "New Jersey, USA",
-    "social": {
+    
+    "info": {
+        "location": "New Jersey, USA",
+        "social": {
             "twitter_handle": "GOOFpool",
             "github_handle": "G00FINAT0R"
-    },
-    "info": {
+        },
         "about": {
             "me": "Goofinators that want to do our part in supporting Cardano decentralization",
             "server": "2 relay nodes and 1 block producer node(i5 9TH GEN CPU, 24GB RAM, 500GB SSD each bare metal node)"
