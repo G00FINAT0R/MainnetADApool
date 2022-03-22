@@ -1,9 +1,12 @@
-{
+{   
+    "location": "New Jersey, USA",
+    "social": {
+            "twitter_handle": "GOOFpool"
+    },
     "info": {
         "about": {
             "me": "IT Goofinators that want to do our part in supporting Cardano",
-            "server": "2 relay nodes and 1 block producer node(i5 9TH GEN CPU, 24GB RAM, 500GB SSD each bare metal node)",
-            "company": "We are located in New Jersey, USA"
+            "server": "2 relay nodes and 1 block producer node(i5 9TH GEN CPU, 24GB RAM, 500GB SSD each bare metal node)"
         }
     }
 }
