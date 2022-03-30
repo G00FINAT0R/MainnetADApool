@@ -16,7 +16,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Goofinators that work in IT and want to do our part in supporting Cardano.  Additional 200 ADA total will be given to delegators in each epoch blocks are minted (based on your active sake, bonus ADA would be divided accordingly).",
+            "me": "Goofinators that work in IT and want to do our part in supporting Cardano.  Additional 200 ADA will be given to delegators each epoch a block is minted (based on your active sake, bonus ADA would be divided accordingly).",
             "server": "2 relay nodes and 1 block producer node(i5 9TH GEN CPU, 24GB RAM, 500GB SSD each bare metal node)",
             "company": ""
         }
