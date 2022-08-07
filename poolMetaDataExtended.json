@@ -17,7 +17,7 @@
         "about": {
             "me": "Goofinators that work in IT and want to do our part in supporting Cardano.  We are also experimenting with Plutus smart contract on Cardano. Additional 200 ADA will be given to delegators each epoch a block is minted (based on your active sake, bonus ADA would be divided accordingly).",
             "server": "2 relay nodes, 1 block producer node, and a passive backup node(i5 9TH GEN CPU, 24GB RAM, 500GB SSD each bare metal node)",
-            "company": "New Jersey, USA 801460ad78322788e9"
+            "company": "New Jersey, USA"
         }
     }
 }
